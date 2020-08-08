@@ -3,4 +3,6 @@ package com.java
 public class Wel {
 
 main();
+sout();
+serr();
 }
